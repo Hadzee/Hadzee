@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tarik Hadžikić. Feel free to check out all of my open source projects. Looking forward to improve my coding, after graduating from College of Computer Science and Informatics eMPIRICOM, as well as completing a course at the IT Academy, department: Java Developer. 
+- 👋 Hi, I’m Tarik Hadžikić. Feel free to check out all of my open source projects. Looking forward to improving my coding, after graduating from College of Computer Science and Informatics eMPIRICOM, as well as completing a course at the IT Academy, department: Java Developer. 
 
 - 📫 How to reach me :
 
